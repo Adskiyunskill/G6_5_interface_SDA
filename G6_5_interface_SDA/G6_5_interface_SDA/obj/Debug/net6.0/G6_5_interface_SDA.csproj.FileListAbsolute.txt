@@ -1,0 +1,15 @@
+C:\projectC#\2-2 ИС\Скворцов Дмитрий\G6_interface_SDA\G6_5_interface_SDA\G6_5_interface_SDA\G6_5_interface_SDA\obj\Debug\net6.0\G6_5_interface_SDA.csproj.AssemblyReference.cache
+C:\projectC#\2-2 ИС\Скворцов Дмитрий\G6_interface_SDA\G6_5_interface_SDA\G6_5_interface_SDA\G6_5_interface_SDA\obj\Debug\net6.0\G6_5_interface_SDA.GeneratedMSBuildEditorConfig.editorconfig
+C:\projectC#\2-2 ИС\Скворцов Дмитрий\G6_interface_SDA\G6_5_interface_SDA\G6_5_interface_SDA\G6_5_interface_SDA\obj\Debug\net6.0\G6_5_interface_SDA.AssemblyInfoInputs.cache
+C:\projectC#\2-2 ИС\Скворцов Дмитрий\G6_interface_SDA\G6_5_interface_SDA\G6_5_interface_SDA\G6_5_interface_SDA\obj\Debug\net6.0\G6_5_interface_SDA.AssemblyInfo.cs
+C:\projectC#\2-2 ИС\Скворцов Дмитрий\G6_interface_SDA\G6_5_interface_SDA\G6_5_interface_SDA\G6_5_interface_SDA\obj\Debug\net6.0\G6_5_interface_SDA.csproj.CoreCompileInputs.cache
+C:\projectC#\2-2 ИС\Скворцов Дмитрий\G6_interface_SDA\G6_5_interface_SDA\G6_5_interface_SDA\G6_5_interface_SDA\bin\Debug\net6.0\G6_5_interface_SDA.exe
+C:\projectC#\2-2 ИС\Скворцов Дмитрий\G6_interface_SDA\G6_5_interface_SDA\G6_5_interface_SDA\G6_5_interface_SDA\bin\Debug\net6.0\G6_5_interface_SDA.deps.json
+C:\projectC#\2-2 ИС\Скворцов Дмитрий\G6_interface_SDA\G6_5_interface_SDA\G6_5_interface_SDA\G6_5_interface_SDA\bin\Debug\net6.0\G6_5_interface_SDA.runtimeconfig.json
+C:\projectC#\2-2 ИС\Скворцов Дмитрий\G6_interface_SDA\G6_5_interface_SDA\G6_5_interface_SDA\G6_5_interface_SDA\bin\Debug\net6.0\G6_5_interface_SDA.dll
+C:\projectC#\2-2 ИС\Скворцов Дмитрий\G6_interface_SDA\G6_5_interface_SDA\G6_5_interface_SDA\G6_5_interface_SDA\bin\Debug\net6.0\ref\G6_5_interface_SDA.dll
+C:\projectC#\2-2 ИС\Скворцов Дмитрий\G6_interface_SDA\G6_5_interface_SDA\G6_5_interface_SDA\G6_5_interface_SDA\bin\Debug\net6.0\G6_5_interface_SDA.pdb
+C:\projectC#\2-2 ИС\Скворцов Дмитрий\G6_interface_SDA\G6_5_interface_SDA\G6_5_interface_SDA\G6_5_interface_SDA\obj\Debug\net6.0\G6_5_interface_SDA.dll
+C:\projectC#\2-2 ИС\Скворцов Дмитрий\G6_interface_SDA\G6_5_interface_SDA\G6_5_interface_SDA\G6_5_interface_SDA\obj\Debug\net6.0\ref\G6_5_interface_SDA.dll
+C:\projectC#\2-2 ИС\Скворцов Дмитрий\G6_interface_SDA\G6_5_interface_SDA\G6_5_interface_SDA\G6_5_interface_SDA\obj\Debug\net6.0\G6_5_interface_SDA.pdb
+C:\projectC#\2-2 ИС\Скворцов Дмитрий\G6_interface_SDA\G6_5_interface_SDA\G6_5_interface_SDA\G6_5_interface_SDA\obj\Debug\net6.0\G6_5_interface_SDA.genruntimeconfig.cache

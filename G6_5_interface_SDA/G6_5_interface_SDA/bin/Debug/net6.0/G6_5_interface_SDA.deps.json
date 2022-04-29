@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "G6_5_interface_SDA/1.0.0": {
+        "runtime": {
+          "G6_5_interface_SDA.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "G6_5_interface_SDA/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
